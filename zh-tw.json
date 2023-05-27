@@ -193,7 +193,7 @@
   "experiencingPartialOutage": "經歷部分中斷",
   "experiencingDegradedPerformance": "體驗性能下降",
   "experiencingMinorOutage": "經歷輕微中斷",
-  "experiencingPartiallyDegradedPerformance": "體驗部分性能下降",
+  "experiencingPartiallyDegradedPerformance": "部分系統出現問題",
   "systemUnderMaintainence": "系統維護中",
   "componentExperiencingMajorOutage": "{{component}} 遭遇重大中斷",
   "componentExperiencingPartialOutage": "{{component}} 遇到部分中斷",
